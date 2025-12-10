@@ -11,7 +11,7 @@ Python wrapper for Rust Iced Gui
 
 ## Overview
 
-* IcedPyGui is based on [Rust Iced](https://github.com/iced-rs/iced) v0.13.1.
+* IcedPyGui is based on [Rust Iced](https://github.com/iced-rs/iced) v0.13.1. going to v0.14.0 soon.
 * Widgets from [Iced_aw](https://github.com/iced-rs/iced_aw).
 * [Pyo3](https://github.com/pyo3/pyo3) is used as the Python wrapper.
 * [Maturin](https://github.com/PyO3/maturin) is used to build and publish the module.
@@ -25,6 +25,7 @@ Python wrapper for Rust Iced Gui
   * Canvas - Add canvas widgets and dynamically drawing
   * CanvasTimer - Timed events for canvas actions
   * Card - Widget with a header and body text
+  * Charts - coming first quarter 2016
   * Checkbox
   * ColorPicker - Widget for selecting a color
   * Column - A container holding widgets or other container in with vertical positioning
